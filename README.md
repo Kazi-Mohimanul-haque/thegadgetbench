@@ -1,1 +1,20 @@
-IyBUaGUgR2FkZ2V0IEJlbmNoIOKAlCB0aGVnYWRnZXRiZW5jaC5jb20KCkJ1c2luZXNzIHdlYnNpdGUgZm9yICoqVGhlIEdhZGdldCBCZW5jaCoqLCBhIHBob25lL2NvbXB1dGVyIHJlcGFpciBhbmQgY2VydGlmaWVkIHByZS1vd25lZCBwaG9uZSBidXNpbmVzcyBpbiBPYWt2aWxsZSwgT250YXJpby4KCvCfjJAgKipMaXZlIHNpdGU6KiogaHR0cHM6Ly90aGVnYWRnZXRiZW5jaC5jb20KCiMjIFdoYXQncyBoZXJlCgotIGBpbmRleC5odG1sYCDigJQgdGhlIGZ1bGwgc2luZ2xlLXBhZ2Ugd2Vic2l0ZSAocmVwYWlycywgdHJhZGUtaW4gZXN0aW1hdG9yLCBwaG9uZXMgZm9yIHNhbGUsIGNvbnRhY3QpCi0gYHJvYm90cy50eHRgIC8gYHNpdGVtYXAueG1sYCDigJQgU0VPIGZpbGVzCgojIyBUZWNoCgpTdGF0aWMgSFRNTC9DU1MvSlMgc2l0ZSB3aXRoIGEgNTItbW9kZWwgdHJhZGUtaW4gZXN0aW1hdG9yIHJ1bm5pbmcgb24gcmVzZWFyY2hlZCBDYW5hZGlhbiBtYXJrZXQgcHJpY2VzLiBEZXBsb3llZCBvbiBDbG91ZGZsYXJlIFdvcmtlcnMgKGZyZWUgdGllcikuIENvbnRhY3QgZm9ybXMgdmlhIEZvcm1TdWJtaXQuCgojIyBCdXNpbmVzcwoKLSDwn5OeIDkwNS04MDgtODYxNgotIOKcie+4jyBpbmZvLmdhZGdldGJlbmNoQGdtYWlsLmNvbQotIE9wZW4gMjQvNyDigJQgT2FrdmlsbGUgaG91c2UgY2FsbHMgKyBtYWlsLWluIGFjcm9zcyBDYW5hZGEK
+# The Gadget Bench — thegadgetbench.com
+
+Business website for **The Gadget Bench**, a phone/computer repair and certified pre-owned phone business in Oakville, Ontario.
+
+🌐 **Live site:** https://thegadgetbench.com
+
+## What's here
+
+- `index.html` — the full single-page website (repairs, trade-in estimator, phones for sale, contact)
+- `robots.txt` / `sitemap.xml` — SEO files
+
+## Tech
+
+Static HTML/CSS/JS site with a 52-model trade-in estimator running on researched Canadian market prices. Deployed on Cloudflare Workers (free tier). Contact forms via FormSubmit.
+
+## Business
+
+- 📞 905-808-8616
+- ✉️ info.gadgetbench@gmail.com
+- Open 24/7 — Oakville house calls + mail-in across Canada
